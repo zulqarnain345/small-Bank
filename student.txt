@@ -1,0 +1,13 @@
+student record
+NAME of 1:: zani
+AGE of 1:: 13
+MARK of 1:: 12
+ 
+NAME of 2:: hassan
+AGE of 2:: 13
+MARK of 2:: 14
+ 
+NAME of 3:: zulqarnain
+AGE of 3:: 13
+MARK of 3:: 11
+ 
